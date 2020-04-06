@@ -1,0 +1,23 @@
+{
+  "name": "drink-water-chat-webhook",
+  "version": "1.0.0",
+  "description": "A node js server which reminds me to drink water every hour using google chat's incoming webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampathBlam/drink-water-chat-webhook.git"
+  },
+  "author": "Sampath Kumar Krishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampathBlam/drink-water-chat-webhook/issues"
+  },
+  "homepage": "https://github.com/sampathBlam/drink-water-chat-webhook#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
